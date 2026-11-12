@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Rapola! 👋
 
-<!--
-**Rapola-M/Rapola-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Networking Student at Central University of Technology (CUT).
 
-Here are some ideas to get you started:
+ Aspiring Network Engineer | Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Networking: Cisco Packet Tracer
+- Network Analysis: Wireshark
+- Operating Systems: Linux / Ubuntu
+- Programming: Python, HTML, CSS
+- Frameworks: Django
+
+## Projects
+- Wireshark Network Traffic Analysis
+- Small Business Network Design
+
+## Certifications & Learning
+- Cisco Introduction to Cybersecurity
+- Cisco IT Essentials
+- CCNA:Enterprise Networking, Security, and Automation
+- Cisco CyberOps Associate
+- Cisco Introduction to Data Science
+
+## Currently Learning
+- Network Security
+- Cybersecurity
+- Advanced Networking
+
+## Career Interests
+Interested in networking, cybersecurity, network administration and IT opportunities.
+
+
+
+
+
